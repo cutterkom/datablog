@@ -55,11 +55,11 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 	copyright = ""
 
 	# show latest posts in single page
-	showLatestPosts = false
+	showLatestPosts = true
 	readMore = ""
 
 	# Share
-	enableShare = true
+	enableShare = false
 	tweet = ""
 	share = ""
 
