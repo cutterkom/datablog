@@ -16,5 +16,5 @@ This website servers as a notebook for data related links and code snippets.
 
 ***
 
-You can find me on [Twitter](http://twitter.com/cutterkom). On [katharinabrunner.de](http://katharinabrunner.de) you can find my general interest blog in German.
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa ullam earum dolorum! Sed, perspiciatis.
+You can find me on [Twitter](http://twitter.com/cutterkom). My general interest blog in German is filed under [katharinabrunner.de](http://katharinabrunner.de).
+
