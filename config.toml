@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "http://data.katharinabrunner.de"
+baseurl = "http://data.katharinabrunner.de/"
 languageCode = "en"
 title = "Katharina Brunner"
 theme = "hugo-theme-cactus-plus"
@@ -17,7 +17,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 	facebook = "your_facebook_id"
 
 	enableRSS = true
-	enableToc = true
+	enableToc = false
 
 	enableDisqus = false
 	disqusShortname = "your_disqus_short_name"
