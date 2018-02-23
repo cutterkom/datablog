@@ -76,3 +76,31 @@ I exclude almost all meta information in order to get a plain HTML-page.
 ## The result
 
 These scripts result in two HTML-files, each containing one `<h2>`-tag with data from a dataframe.
+
+Example: 
+
+```r
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title></title>
+  <link rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+
+<h2>Katharina</h2>
+
+</body>
+</html>
+
+
+```
+
