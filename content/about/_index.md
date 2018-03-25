@@ -12,7 +12,7 @@ My tasks involve the full range of data analysis, like, researching and gatherin
 
 My programming language of choice is R (tidyverse), I consider myself as a member of the [#rstats community](https://twitter.com/hashtag/rstats).
 
-This website servers as a notebook for data related links and code snippets. 
+This website serves as a notebook for data related links and code snippets. 
 
 ***
 
